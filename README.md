@@ -43,7 +43,7 @@
 3. 个人js作品
   - 个人写的小作品，包括仿 start bootstrap 网站静态页面，CSS3 轮播图、tab 切换、展开折叠、下拉框偏移等 jQuery 常见效果。熟练使用 HTML、CSS3 实现页面效果，以及熟练 jQuery 的选择器、DOM、事件、表单等技术的实际应用。
    
-   [预览](https://zhangyoung99.github.io/js-works/)
+      [预览](https://zhangyoung99.github.io/js-works/)
    
 4. [公司官网改版](http://www.souyute.com/oto/syt/front/Celucasn)
 - 公司官网的改版项目。历时1个半月完成改版发布。在这期间，作为前端开发，参与了4个版块的页面改版，应用 HTML、CSS3 等技术完成页面的重构&页面性能优化工作，协助 Java 后端完成了线上环境发布更新，后期跟进正式环境的 bug 修复工作，官网正常运行。
