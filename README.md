@@ -5,13 +5,13 @@
 
 ## 个人信息
 
-* 男 | 27岁
+* 男 | 28岁
 * 学历: 机械专业-广东海洋大学-本科（2008-2012）
 * 邮箱：zhangyoung11@gmail.com
 
 ## 工作经历
 
-&nbsp;&nbsp;2016/04—2017/05&nbsp;&nbsp;|&nbsp;&nbsp;东莞潮流前线信息科技有限公司&nbsp;&nbsp;|&nbsp;&nbsp;前端开发工程师
+&nbsp;&nbsp;2016/08—2017/06&nbsp;&nbsp;|&nbsp;&nbsp;东莞潮流前线信息科技有限公司&nbsp;&nbsp;|&nbsp;&nbsp;前端开发工程师
 
 &nbsp;&nbsp;工作内容：
 
