@@ -39,8 +39,7 @@
 - 采用 vue-cli + vue2.0 + vuex + LESS 技术完成构建
 - 实现导航区添加、收藏、删除功能，列表区实现 笔记tab 切换，编辑区可往列表区添加内容，基本满足常见的记事本需求。
 - 用 vuex 来实现组件状态数据管理，基本熟悉了 vuex 的核心概念（ state、 mutations、actions、getters）的使用。
- 
-    [预览](https://zhangyoung99.github.io/vue-demo/notes-app/dist/index.html) &nbsp;&nbsp;&nbsp; [github源码](https://github.com/zhangyoung99/vue-demo/tree/master/notes-app)
+    [预览](https://zhangyoung99.github.io/vue-demo/notes-app/dist/index.html) &nbsp;&nbsp;&nbsp; [源码](https://github.com/zhangyoung99/vue-demo/tree/master/notes-app)
     
 2. 在线简历编辑器
 
@@ -53,19 +52,18 @@
 - 采用 vue2.0 + webpack + localStorage 技术实现
 - 用 vue 实现的 todo 小应用，包含新增&删除待办列表，标记状态等功能，有简易的实用性。
 - 这个小应用是自己实战 vue 框架的项目。功能比较简易，却锻炼了自己实践的能力，对 vue.js 有了更深的理解，掌握使用一些 vue.js 的基本方法，以及 HTML5 的 localStorage 的使用。
-
-    [预览](https://zhangyoung99.github.io/vue-demo/todo/page.html) &nbsp;&nbsp;&nbsp;[github源码](https://github.com/zhangyoung99/vue-demo/tree/master/todo)
+    [预览](https://zhangyoung99.github.io/vue-demo/todo/page.html) &nbsp;&nbsp;&nbsp;[源码](https://github.com/zhangyoung99/vue-demo/tree/master/todo)
 
 4. 手机移动端作品
 - 仿手机微信界面
-     - 使用 Vue2.0 和 Vue.js 的手机 UI 组件库 Mint-UI 实现的手机微信界面，并使用Iconfont平台获取图标的实现。 [预览](https://zhangyoung99.github.io/vue-demo/Wechat/index.html) &nbsp;&nbsp;&nbsp; [源码](https://github.com/zhangyoung99/vue-demo/tree/master/Wechat)
+     - 使用 Vue2.0 和 Vue.js 的手机 UI 组件库 Mint-UI 实现的手机微信界面，并使用Iconfont平台获取图标的实现。 
+     [预览](https://zhangyoung99.github.io/vue-demo/Wechat/index.html) &nbsp;&nbsp;&nbsp; [源码](https://github.com/zhangyoung99/vue-demo/tree/master/Wechat)
 - H5 贺卡
-     - 运用 HTML5 和 CSS3 实现春节手机端祝贺页面，掌握了手机端简单展示型网页的布局与分析；使用 HTML5 的 Audio API 完成音乐交互。&nbsp;&nbsp;[预览](https://zhangyoung99.github.io/css-demo/spring-blessing/blessing.html) &nbsp;&nbsp;&nbsp;[源码](https://github.com/zhangyoung99/css-demo/tree/master/spring-blessing)
+     - 运用 HTML5 和 CSS3 实现春节手机端祝贺页面，掌握了手机端简单展示型网页的布局与分析；使用 HTML5 的 Audio API 完成音乐交互。&nbsp;&nbsp;  [预览](https://zhangyoung99.github.io/css-demo/spring-blessing/blessing.html) &nbsp;&nbsp;&nbsp;[源码](https://github.com/zhangyoung99/css-demo/tree/master/spring-blessing)
 
 5. 个人js作品
   - 个人写的小作品，包括仿 start bootstrap 网站静态页面，CSS3 轮播图、tab 切换、展开折叠、下拉框偏移等 jQuery 常见效果。熟练使用 HTML、CSS3 实现页面效果，以及熟练 jQuery 的选择器、DOM、事件、表单等技术的实际应用。
-   
-      [预览](https://zhangyoung99.github.io/js-works/)
+   [预览](https://zhangyoung99.github.io/js-works/)
  
 ## 擅长技能
 
