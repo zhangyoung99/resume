@@ -26,7 +26,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;2. PC 新版官网开发维护，主要负责 PC 端官网页面构建、常见页面效果实现。
 
-公司官网改版，参与了4个版块的页面改版，应用 HTML、CSS3 、LESS 等技术完成静态页面的重构&页面性能优化工作，协助 Java 后端完成了线上环境发布更新，后期跟进正式环境的前端 bug 修复工作，官网正常运行。
+- 公司官网改版，参与了4个版块的页面改版，应用 HTML、CSS3 、LESS 等技术完成静态页面的重构&页面性能优化工作，协助 Java 后端完成了线上环境发布更新，后期跟进正式环境的前端 bug 修复工作，官网正常运行。
 
 &nbsp;&nbsp;2012/07—2016/04&nbsp;&nbsp;|&nbsp;&nbsp;东莞新科技术研究开发有限公司&nbsp;&nbsp;|&nbsp;&nbsp;机械设备工程师
 
@@ -50,7 +50,7 @@
 
 3. TODO小应用
 
-- 采用 vue2.x + webpack + localStorage 技术实现
+- 采用 vue2.0 + webpack + localStorage 技术实现
 - 用 vue 实现的 todo 小应用，包含新增&删除待办列表，标记状态等功能，有简易的实用性。
 - 这个小应用是自己实战 vue 框架的项目。功能比较简易，却锻炼了自己实践的能力，对 vue.js 有了更深的理解，掌握使用一些 vue.js 的基本方法，以及 HTML5 的 localStorage 的使用。
 
@@ -60,7 +60,6 @@
 - 仿手机微信界面
      - 使用 Vue2.0 和 Vue.js 的手机 UI 组件库 Mint-UI 实现的手机微信界面，并使用Iconfont平台获取图标的实现。 [预览](https://zhangyoung99.github.io/vue-demo/Wechat/index.html) &nbsp;&nbsp;&nbsp; [源码](https://github.com/zhangyoung99/vue-demo/tree/master/Wechat)
 - H5 贺卡
-
      - 运用 HTML5 和 CSS3 实现春节手机端祝贺页面，掌握了手机端简单展示型网页的布局与分析；使用 HTML5 的 Audio API 完成音乐交互。&nbsp;&nbsp;[预览](https://zhangyoung99.github.io/css-demo/spring-blessing/blessing.html) &nbsp;&nbsp;&nbsp;[源码](https://github.com/zhangyoung99/css-demo/tree/master/spring-blessing)
 
 5. 个人js作品
@@ -68,7 +67,7 @@
    
       [预览](https://zhangyoung99.github.io/js-works/)
  
-## 专业技能
+## 擅长技能
 
 1. 熟悉 HTML(5)/CSS(3)，掌握浮动、盒模型、定位等 CSS核心概念，能用 HTML&CSS3 实现常见页面布局，熟练使用预编译工具 LESS/SASS。
 2. 了解手机移动web开发，有H5手机页面开发经验，如春节贺卡、手机微信界面等，有手机开发调试经验。
